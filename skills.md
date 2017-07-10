@@ -20,7 +20,7 @@
 * Eclipse
 *	IntelliJ
 
-In my current role, my day to day work involve, managing and creating restful and SOAP services which are primarly written in Java. The Business Layer is built on C++. We use Visual Studio IDE for daily development in the Business Layer. I have experience with using SVN for source control management, and Jenkins build server for continuous integration.
+In my current role, my day to day work involve, managing and creating restful and SOAP services which are primarily written in Java. The Business Layer is built on C++. We use Visual Studio IDE for daily development in the Business Layer. I have experience with using SVN for source control management, and Jenkins build server for continuous integration.
 
 We follow Test driven development for our service layer and use JUnit to write unit test. Mokito is used to mock our services for tests.
 
